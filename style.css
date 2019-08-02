@@ -1,0 +1,83 @@
+*
+{
+    margin:0;
+    padding:0
+}
+
+img{
+    display: inline;
+    width:40%;
+    height:40%;
+    padding-left: 25%;
+    padding-top: 10%;
+    text-align:center
+}
+html{
+    background-color: aqua
+}
+
+
+
+
+header{
+    /* background-image: linear-gradient(rgba(0,0,0,0.7)),     need an image later*/
+    /* height: associated with the image and web */
+    /* background-size: needs the image*/
+    /* background-position: asociated with image */
+}
+.title{
+    text-align: center;
+    font-family: Arial;
+}
+ .navigation{
+    text-align: center;
+    margin-top: top 30px;
+}
+
+.navigation li{
+    display:inline-block;
+}
+
+.navigation li a{
+    color: red;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+/* .navigation li.active a{ */
+    /* border: 1px solid blue */
+/* } */
+
+/* .navigation li a:hover{ */
+    /* border: 1px solid blue   */
+/* } */
+
+.body{
+    font-family: monospace
+}
+
+
+
+
+.Info2{
+    font-family: Arial;
+    font-size: 15px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.Info3{
+    font-family: Arial;
+    font-size: 15px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.Info4{
+    font-family: Arial;
+    font-size: 15px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}

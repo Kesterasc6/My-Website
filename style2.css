@@ -1,0 +1,60 @@
+img{
+    display: inline;
+    width:40%;
+    height:40%;
+    padding-left: 5%;
+    padding-bottom: 10%;
+    padding-right: 5%;
+    text-align:center;
+    float: left
+}
+
+.text{
+ padding-top: 5%;
+ text-align: center;   
+}
+
+.Achievements{
+padding-top: 5%;
+text-align: center;
+
+}
+html{
+    background-color: aqua
+}
+
+
+
+
+header{
+    /* background-image: linear-gradient(rgba(0,0,0,0.7)),     need an image later*/
+    /* height: associated with the image and web */
+    /* background-size: needs the image*/
+    /* background-position: asociated with image */
+}
+.title{
+    text-align: center;
+    font-family: Arial;
+}
+ .navigation{
+    text-align: center;
+    margin-top: top 30px;
+}
+
+.navigation li{
+    display:inline-block;
+}
+
+.navigation li a{
+    color: red;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.Info{
+    font-family: Arial;
+    font-size: 15px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
